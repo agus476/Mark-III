@@ -1,0 +1,13 @@
+{
+    "alfa_rodamientos": {
+        "header": 1,
+        "columns": [0, 4],
+        "column_names": ["codigo", "precio"]
+    }, 
+
+    "etman": {
+        "header": 0,
+        "columns": [0, 3],
+        "column_names": ["codigo", "precio"]
+    }
+}
